@@ -1,0 +1,9 @@
+Number of taxa: 6
+Gene trees: 7, internal nodes: 39 (35 valid STBs, 4 overlapping), polytomies resolved: 1
+STBs in gene trees (count): 21
+STBs in gene trees (sum): 35
+Number of Clusters: 22
+DP states: 16, candidate bipartitions: 32, fallback states: 0
+Sigma N: 39.0
+total cost: 12.0
+(((a,b),c),((d,e),f)); 
